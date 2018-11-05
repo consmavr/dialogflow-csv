@@ -59,3 +59,12 @@ typings/
 
 # next.js build output
 .next
+
+lib/
+.vscode/
+credentials/
+data/
+
+package-lock.json
+
+*.bat

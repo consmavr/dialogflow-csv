@@ -1,0 +1,10 @@
+Dialogflow utilities for creating/deleting/listing entities/intents from CSV files.
+
+CLI
+create-intents
+create-entities
+list-intents
+list-entities
+delete-intents
+delete-entities
+query
